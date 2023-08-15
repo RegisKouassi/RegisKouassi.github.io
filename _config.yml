@@ -2,3 +2,8 @@
 remote_theme: eliottvincent/bay
 title: Régis Kouassi
 description: Hello! I am a Ph.D. candidate in Economics at Université de Montréal.
+Header:
+  pages:
+    - name: Home
+      slug: /
+    - name: Research  
