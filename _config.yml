@@ -2,8 +2,17 @@
 remote_theme: eliottvincent/bay
 title: Régis Kouassi
 description: Hello! I am a Ph.D. candidate in Economics at Université de Montréal.
+
 Header:
   pages:
     - name: Home
       slug: /
     - name: Research  
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: regis.kouassi@umontreal.ca
+      link: mailto:regis.kouassi@umontreal.ca
+
