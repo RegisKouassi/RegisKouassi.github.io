@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+remote_theme: eliottvincent/bay
 title: Régis Kouassi
 description: Hello! I am a Ph.D. candidate in Economics at Université de Montréal.
