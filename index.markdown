@@ -1,10 +1,6 @@
 ---
-layout: home
-profile_picture:
-  src: /images/Id_photo.png
-  alt: website picture
----
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-<p>
-  Welcome !
-</p>
+layout: home
+---
