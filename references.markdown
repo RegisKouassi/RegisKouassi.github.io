@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Research
-slug: /research
+title: References
+slug: /references
 ---
 
 <br />
