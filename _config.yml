@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+
 title: Régis Kouassi
 email: regis.kouassi@umontreal.ca
 description: >- # this means to ignore newlines until "baseurl:"
@@ -29,6 +30,18 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Rkouassi
 github_username:  RegisKouassi
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      alternative_site_title: Régis Kouassi
+  -
+    scope:
+      path: "research"
+    values:
+      alternative_site_title: Régis Kouassi
+
 header:
   pages:
     - name: Home
@@ -38,15 +51,15 @@ header:
     - name: References  # <-- whatever.md
 
 footer:
-  show_powered_by: true
+  #show_powered_by: true
   contact:
     - name: Email
       value: regis.kouassi@umontreal.ca
       link: mailto:regis.kouassi@umontreal.ca
 
 # Build settings
-#theme: bay_jekyll_theme
-remote_theme: eliottvincent/bay
+theme: bay_jekyll_theme
+#theme: minima
 #plugins:
 #  - jekyll-feed
 

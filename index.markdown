@@ -4,11 +4,12 @@
 
 layout: home
 profile_picture:
-  src: /images/Id_photo.png
+  src: /images/Id_photo2.JPG
   alt: website picture
 ---
 
 <p>
-  Welcome! I am a Ph.D. candidate in Economics at Université de Montréal. My research interest is to understand the heterogeneous effect of public policies.   
+  Welcome! I am a Ph.D. candidate in Economics at Université de Montréal. My research tries to understand the heterogeneous effect of public policies. 
+  My fields of interest are Applied Economics, Macroeconomics, and Environmental Economics. 
 </p>
 ---
