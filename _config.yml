@@ -58,8 +58,7 @@ footer:
       link: mailto:regis.kouassi@umontreal.ca
 
 # Build settings
-#theme: bay_jekyll_theme
-remote_theme: eliottvincent/bay
+theme: bay_jekyll_theme
 #theme: minima
 #plugins:
 #  - jekyll-feed
