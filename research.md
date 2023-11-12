@@ -15,7 +15,7 @@ Results indicate that, absent restrictions imposed by the Amendment, the number 
 Moreover, I estimate a flood mitigation benefit-to-cost ratio of 9 to 1 associated with an improvement in sewer systems quality,
  saving nearly $22.6 million for the average county.</p>
 
-### Measuring the Economic Costs of China’s zero-COVID Policy from Outer Space, (With Jian tang)
+### Measuring the Economic Costs of China’s zero-COVID Policy from Outer Space (With Jian tang), Submitted
 <p>
 We quantify the effects of the “zero-COVID” policy using a rich set of county-level lockdown events in China and nighttime satellite imagery. 
 We find that more stringent lockdowns induce a large contemporaneous decline in nightlight followed by a slow recovery, 
@@ -28,8 +28,8 @@ incurs on average a 6% GDP loss compared to those without restrictions. The nega
 ## Work in progress
 * “Centralized Water Systems Adoption in Early American Cities”
 
-* “Weather shocks and Protectionism in the 20th Century U.S.”, (with Andriana Bellou, Emanuella Cardia,and Joshua Lewis)
+* “Weather shocks and Protectionism in the 20th Century U.S.” (with Andriana Bellou, Emanuella Cardia,and Joshua Lewis)
 
-* “Trade, Shocks Transmission, and Monetary Policy in a Regional Trade Agreement”, (with Fansa Koné)
+* “Trade, Shocks Transmission, and Monetary Policy in a Regional Trade Agreement” (with Fansa Koné)
 
 <br />
