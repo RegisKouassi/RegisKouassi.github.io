@@ -5,6 +5,7 @@ slug: /research
 ---
 ## Working papers 
 ###   “Water-Proofed: Floods and Water Infrastructure Quality in the United-States” (Job Market Paper)
+<a href="https://www.dropbox.com/scl/fi/d1qeatgdnwvc6p2a8axj0/storm_and_water_infrastructure_rkouassi.pdf?rlkey=uzgn1ufe57yaz0e38qgedchsj&dl=0">Click here for the latest version.</a>
 <p>This paper studies the role of water infrastructure as a means of adaptation to climate change. 
 Specifically, I investigate how past investments in water infrastructure mitigate the economic effects of floods across U.S. counties. 
 I construct a simple statistical framework to aggregate in a structured way detailed information on the entire population 
