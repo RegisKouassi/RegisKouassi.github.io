@@ -4,7 +4,7 @@
 
 layout: home
 profile_picture:
-  src: /images/jmp_photo_smile2.JPG
+  src: /images/jmp_photo_smile2.jpg
   alt: website picture
 ---
 
