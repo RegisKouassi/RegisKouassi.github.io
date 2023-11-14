@@ -16,6 +16,7 @@ Moreover, I estimate a flood mitigation benefit-to-cost ratio of 9 to 1 associat
  saving nearly $22.6 million for the average county.</p>
 
 ### Measuring the Economic Costs of China’s zero-COVID Policy from Outer Space (With Jian tang), Submitted
+<a href="https://www.dropbox.com/scl/fi/1gihehb7ayorunjjbal0y/zero_covid_draft_nov23_KT.pdf?rlkey=0zb81kgmnkkz60oed72i9ddu1&dl=0">Click here for the latest version.</a>
 <p>
 We quantify the effects of the “zero-COVID” policy using a rich set of county-level lockdown events in China and nighttime satellite imagery. 
 We find that more stringent lockdowns induce a large contemporaneous decline in nightlight followed by a slow recovery, 
