@@ -10,8 +10,7 @@ profile_picture:
 
 <p>
  Welcome! I am a PhD Candidate in  <a href="https://sceco.umontreal.ca/english/home/"> Economics at University of Montreal</a>. 
-My research uses econometrics to understand how environmental shocks interact with public policies to determine economic outcomes. <br>
-
+My main fields of research are Environmental Economics and Applied Economics. <br>
 </p>
 
 <p>
@@ -19,6 +18,7 @@ My research uses econometrics to understand how environmental shocks interact wi
 </p>
 
 <p>
-I am passionate about analysing nonstandard data sources like satellite imagery and historical archives to derive new insights for the design of better economic policies.
+  My recent research works use econometrics to understand how environmental shocks interact with public policies to determine economic outcomes. <br>
+
 </p>
 ---
