@@ -19,6 +19,5 @@ My main fields of research are Environmental Economics and Applied Economics. <b
 
 <p>
   My recent research works use econometrics to understand how environmental shocks interact with public policies to determine economic outcomes. <br>
-
 </p>
 ---
