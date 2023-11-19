@@ -15,6 +15,7 @@ My main fields of research are Environmental Economics and Applied Economics. <b
 
 <p>
 <a href="https://www.dropbox.com/scl/fi/k6nqqlar2vvw9otjkklsf/CV_RegisKouassi_Sept2023.pdf?rlkey=saesshl58zylh0hwc4x6853u4&dl=0">You can find my CV here.</a>
+  
 </p>
 
 <p>
