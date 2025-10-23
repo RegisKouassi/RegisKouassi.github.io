@@ -9,8 +9,8 @@ profile_picture:
 ---
 
 <p>
- Welcome! I am an Economist in the African Department at the International Monetary Fund. 
-My main fields of research are Environmental Economics and Applied Economics. <br>
+ Welcome! I am an Economist in the African Department at the International Monetary Fund. I obtained my Ph.D. from the University of Montreal in 2024.
+My research interests are Macroeconomics, Environmental Economics and Economic history. <br>
 </p>
 
 <p>
