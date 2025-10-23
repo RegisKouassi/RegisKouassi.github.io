@@ -9,8 +9,8 @@ profile_picture:
 ---
 
 <p>
- Welcome! I am an Economist in the African Department at the International Monetary Fund. I obtained my Ph.D. from the University of Montreal in 2024. My research interests are Macroeconomics, Environmental Economics and Economic history. <br>
-  
+ Welcome! I am a PhD Candidate in  <a href="https://sceco.umontreal.ca/english/home/"> Economics at University of Montreal</a>. 
+My main fields of research are Environmental Economics and Applied Economics. <br>
 </p>
 
 <p>
