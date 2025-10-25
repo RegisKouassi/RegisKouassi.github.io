@@ -20,7 +20,7 @@
 
 
 title: Régis Kouassi
-email: regis.kouassi@umontreal.ca
+email: kkouassi@imf.org
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -54,14 +54,13 @@ footer:
   #show_powered_by: true
   contact:
     - name: Email
-      value: regis.kouassi@umontreal.ca
-      link: mailto:regis.kouassi@umontreal.ca
+      value: kkouassi@imf.org
+      link: mailto:kkouassi@imf.org
 
 # Build settings
 #theme: bay_jekyll_theme
 #remote_theme: eliottvincent/bay
-#
-theme: minima
+#theme: minima
 #plugins:
 #  - jekyll-feed
 
