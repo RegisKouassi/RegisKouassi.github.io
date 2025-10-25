@@ -18,6 +18,6 @@ profile_picture:
 </p>
 
 <p>
-** Fields of interest:** Macroeconomics, Environmental economics, Economic history.
+**Fields of interest**: Macroeconomics, Environmental economics, Economic history.
 </p>
 ---
