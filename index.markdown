@@ -9,7 +9,7 @@ profile_picture:
 ---
 
 <p>
- Welcome! I am a Ph.D. Candidate in  <a href="https://sceco.umontreal.ca/english/home/"> Economics at University of Montreal</a>. 
+ Welcome! I am a PhD Candidate in  <a href="https://sceco.umontreal.ca/english/home/"> Economics at University of Montreal</a>. 
 My main fields of research are Environmental Economics and Applied Economics. <br>
 </p>
 
