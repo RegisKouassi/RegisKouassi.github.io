@@ -9,8 +9,7 @@ profile_picture:
 ---
 
 <p>
- Welcome! I am a PhD Candidate in  <a href="https://sceco.umontreal.ca/english/home/"> Economics at University of Montreal</a>. 
-My research uses econometrics to understand how environmental shocks interact with public policies to determine economic outcomes. <br>
+ Welcome! I am an Economist in the African Department at the International Monetary Fund. I obtained my Ph.D. in 2024 from the University of Montreal.  <br>
 
 </p>
 
@@ -19,6 +18,6 @@ My research uses econometrics to understand how environmental shocks interact wi
 </p>
 
 <p>
-I am passionate about analysing nonstandard data sources like satellite imagery and historical archives to derive new insights for the design of better economic policies.
+** Fields of interest:** Macroeconomics, Environmental economics, Economic history.
 </p>
 ---
