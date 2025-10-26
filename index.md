@@ -18,7 +18,7 @@ profile_picture:
 
 
 <p>
-<a href="https://www.dropbox.com/scl/fi/k6nqqlar2vvw9otjkklsf/CV_RegisKouassi_Sept2023.pdf?rlkey=saesshl58zylh0hwc4x6853u4&dl=0">You can find my CV here.</a>
+<a href="https://www.dropbox.com/scl/fi/1fu249kd9t0hjonkxdvls/CV_RegisKouassi_Oct2025.pdf?rlkey=66vuromkouo0qyr9p44852yk8&st=fx0kir7e&dl=0">You can find my CV here.</a>
 </p>
 
 <p>
