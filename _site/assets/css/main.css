@@ -1,4 +1,13 @@
 /**
+ * Clearfix
+ */
+.footer-col-wrapper:after, .wrapper:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/**
  * Reset some basic elements
  */
 body,
@@ -29,7 +38,7 @@ body {
   font-family: Charter, Georgia, Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.7;
-  font-weight: 400;
+  font-weight: 300;
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -116,6 +125,16 @@ a:hover {
   text-decoration: underline;
 }
 
+span.link {
+  cursor: pointer;
+  color: #2a7ae2;
+  text-decoration: none;
+}
+span.link:hover {
+  color: #111;
+  text-decoration: underline;
+}
+
 /**
  * Enforce bold (Firefox)
  */
@@ -167,30 +186,21 @@ pre > code {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(1000px - (30px * 2));
-  max-width: calc(1000px - (30px * 2));
+  position: relative;
+  max-width: -webkit-calc(760px - (30px * 2));
+  max-width: 700px;
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px;
-  position: relative;
 }
 @media screen and (max-width: 800px) {
   .wrapper {
     max-width: -webkit-calc(800px - (30px));
-    max-width: calc(800px - (30px));
+    max-width: 770px;
     padding-right: 15px;
     padding-left: 15px;
   }
-}
-
-/**
- * Clearfix
- */
-.footer-col-wrapper:after, .wrapper:after {
-  content: "";
-  display: table;
-  clear: both;
 }
 
 /**
@@ -207,29 +217,14 @@ pre > code {
 }
 
 /**
-*Header
-* link for colors:   https://htmlcolorcodes.com/color-picker/?_ga=2.69778835.203553660.1594052984-1032647215.1594052984&hubs_content=blog.hubspot.com%2Fwebsite%2Fchange-text-color-css&hubs_content-cta=Hex%2520color%2520codes
-*/
-.site-header {
-  background-color: #D6D7D8;
-}
-
-/**
-* Footer
-.site-footer {
- background-color: #D6D7D8;
-}
-
-*/
-/**
  * Site header
  */
 .site-header {
+  position: relative;
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
   padding-top: 10px;
   padding-bottom: 10px;
-  position: relative;
 }
 @media screen and (max-width: 500px) {
   .site-header {
@@ -245,10 +240,10 @@ pre > code {
   float: left;
 }
 .site-title img {
-  height: 28px;
+  height: 23px;
 }
 .site-title, .site-title:visited {
-  color: #424242;
+  color: rgb(66.25, 66.25, 66.25);
 }
 
 /**
@@ -258,6 +253,7 @@ pre > code {
   z-index: 10;
   float: right;
   line-height: 56px;
+  background-color: #fdfdfd;
 }
 .site-nav .menu-icon {
   display: none;
@@ -281,18 +277,19 @@ pre > code {
   .site-nav .menu-icon {
     display: block;
     float: right;
-    width: 36px;
+    border-radius: 5px;
+    width: 38px;
     height: 26px;
     line-height: 0;
     padding-top: 4px;
     text-align: center;
-    background: #ffffff url("/assets/img/menu.png") 6px 4px no-repeat;
+    background: #fdfdfd url("/assets/img/menu.png") 6px 4px no-repeat;
     background-size: 26px 26px;
   }
   .site-nav .menu {
     clear: both;
     display: none;
-    background-color: #ffffff;
+    background-color: #fdfdfd;
     min-width: 10em;
     padding-bottom: 5px;
   }
@@ -312,7 +309,7 @@ pre > code {
 }
 @media screen and (max-width: 500px) {
   .site-footer {
-    padding-top: 20px;
+    padding-top: 10px;
   }
 }
 
@@ -343,7 +340,7 @@ pre > code {
 .footer-col-2,
 .footer-col-3 {
   width: -webkit-calc(33% - (30px / 2));
-  width: calc(33% - (30px / 2));
+  width: calc(33% - 15px);
 }
 
 .follow-links > .social-link {
@@ -351,6 +348,7 @@ pre > code {
 }
 
 .powered-by {
+  text-align: end;
   font-size: 13px !important;
   color: #828282;
 }
@@ -359,6 +357,9 @@ pre > code {
   .footer-col {
     float: none;
     width: 100%;
+  }
+  .powered-by {
+    text-align: start;
   }
 }
 /**
@@ -376,6 +377,7 @@ pre > code {
   float: right;
   width: 202px;
   border: #ccc 1px solid;
+  border-radius: 3px;
   margin-left: 20px;
 }
 @media screen and (max-width: 500px) {
@@ -410,6 +412,7 @@ pre > code {
   width: 16px;
   height: 16px;
 }
+.footer-col .social-links .social-link span,
 .footer-col .social-links .social-link a {
   margin-left: 6px;
   word-break: break-all;
@@ -545,6 +548,7 @@ pre > code {
 
 .post-pic {
   border: #999 1px solid;
+  border-radius: 4px;
 }
 
 .magnify {
